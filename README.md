@@ -1,4 +1,4 @@
-<h1>Starbucks</h1>
+<h1 align="center">Starbucks</h1>
 
 
 <h3>Primeiro Projeto desenvolvido junto ao professor Rodolfo Mori na <a href="https://rodolfomori.com.br/devclub">DevClub</a></h3>
