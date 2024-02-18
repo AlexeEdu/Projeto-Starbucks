@@ -10,5 +10,5 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
 
 
-  <img src="![image](https://github.com/AlexeEdu/Projeto-Starbucks/assets/157429916/f400eca8-0792-46bb-a192-7458c4680453)">
+  <img src="https://github.com/AlexeEdu/Projeto-Starbucks/blob/main/img/2024-02-18%20(1).png?raw=true" alt="imagem-projeto">
 
