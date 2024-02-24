@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
 
-<
+
   <img src="https://github.com/AlexeEdu/Projeto-Starbucks/blob/main/img/2024-02-18%20(1).png?raw=true" alt="imagem-projeto">
+
+  <p>Netlify: <a href="https://1projeto-starbucks.netlify.app/">https://1projeto-starbucks.netlify.app/</a></p>
 
